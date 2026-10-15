@@ -1,0 +1,3 @@
+SRBOT-AUTH-V1
+issued=2026-10-15T12:35:57Z
+Suffy|*|2099-12-31
